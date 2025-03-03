@@ -1,0 +1,9 @@
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+cypress/results/
+.idea/
+.vscode/
+*.log
+.env
